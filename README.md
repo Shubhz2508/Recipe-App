@@ -1,4 +1,8 @@
-This is a recipe app.
+This is a recipe app which uses :-
+1) Angular Forms
+2) HTTP Requests
+3) Angular Routing and Deploying
+4) Different Services,Dependency Injection and NgRx.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0-rc.1.
 
